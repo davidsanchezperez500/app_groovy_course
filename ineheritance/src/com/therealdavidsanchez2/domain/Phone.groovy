@@ -1,4 +1,4 @@
-package com.therealdavidsanchez.domain
+package com.therealdavidsanchez2.domain
 
 class Phone {
     String name
