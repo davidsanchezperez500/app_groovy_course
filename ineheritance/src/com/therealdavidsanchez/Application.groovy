@@ -1,5 +1,5 @@
 package com.therealdavidsanchez
 
-class Aplication {
+class Application {
 
 }
